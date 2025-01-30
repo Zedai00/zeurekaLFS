@@ -1,2 +1,2 @@
 # zeurekaLFS
-Linux From Scratch by Zed and Eureka_knight
+Linux From Scratch by Zed and eureka_knight
